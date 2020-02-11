@@ -1,3 +1,4 @@
 cake
 cookies
 fruit
+smoothie
