@@ -2,3 +2,4 @@ cake
 cookies
 fruit
 snacks
+ice cream
